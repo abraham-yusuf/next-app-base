@@ -60,7 +60,7 @@ export default function App() {
           <Text>/</Text>
           <Link href="https://docs.nativebase.io" isExternal>
             <Text color="primary.500" underline fontSize={"xl"}>
-              Learn NativeBase
+              Explore Produ
             </Text>
           </Link>
         </HStack>
