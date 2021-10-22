@@ -7,10 +7,10 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>NaitveBase + NextJS Starter Kit</title>
+        <title>Toko Abah</title>
         <meta
           name="description"
-          content="NativeBase and NextJS starter kit for rapid setup and easy development experience with NativeBase."
+          content="Belanja Murah Dan Mudah Dengan Toko Abah."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
