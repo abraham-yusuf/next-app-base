@@ -42,19 +42,19 @@ export default function App() {
             resizeMode="contain"
           />
         </HStack>
-        <Heading>Welcome to NativeBase</Heading>
+        <Heading>Selamat Datang Di Toko Abah</Heading>
         <Text>
-          Edit <Code>src/pages/index.js</Code> and save to reload.
+          Belanja Murah Dan Mudah Dengan Toko Abah.
         </Text>
         <HStack alignItems="center" space="sm">
-          <Link href="https://nextjs.org/docs/getting-started" isExternal>
+          <Link href="#" isExternal>
             <Text
               _light={{ color: "gray.700" }}
               _dark={{ color: "gray.400" }}
               underline
               fontSize={"xl"}
             >
-              Learn NextJS
+              Download Aplikasi Toko Abah
             </Text>
           </Link>
           <Text>/</Text>
