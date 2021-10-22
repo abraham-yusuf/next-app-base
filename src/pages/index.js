@@ -58,17 +58,17 @@ export default function App() {
             </Text>
           </Link>
           <Text>/</Text>
-          <Link href="https://docs.nativebase.io" isExternal>
+          <Link href="#" isExternal>
             <Text color="primary.500" underline fontSize={"xl"}>
-              Explore Produ
+              Explore Produk
             </Text>
           </Link>
         </HStack>
       </VStack>
       <ColorModeSwitch />
-      <Link mt="6" href="https://docs.nativebase.io" isExternal>
+      <Link mt="6" href="#" isExternal>
         <Button variant="outline" colorScheme="coolGray">
-          View Repo
+          Lihat Toko
         </Button>
       </Link>
     </Center>
