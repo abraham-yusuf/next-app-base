@@ -21,5 +21,21 @@
     "next-compose-plugins": "^2.2.1",
     "next-transpile-modules": "^8.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "description": "This example features how to use [native-base](https://github.com/GeekyAnts/nativebase) as the component library within a Next.js app.",
+  "version": "1.0.0",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraham-yusuf/next-app-base.git"
+  },
+  "keywords": ["NextJS",
+  "NativeBase",
+  "E-Commerce",
+  "React Native"],
+  "author": "Abraham Yusuf",
+  "bugs": {
+    "url": "https://github.com/abraham-yusuf/next-app-base/issues"
+  },
+  "homepage": "https://github.com/abraham-yusuf/next-app-base#readme"
 }
